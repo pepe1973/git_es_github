@@ -1,1 +1,2 @@
-Újból módosított első sor.
+Módosított első sor.
+
